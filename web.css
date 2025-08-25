@@ -453,6 +453,10 @@ img{
   color: var(--text-color-light);
   margin-top: 3.5rem;
 }
+.footer__copy a{
+    color: var(--text-color-light);
+    text-decoration: underline;
+}
 
 /*========== MEDIA QUERIES ==========*/
 @media screen and (min-width: 576px){

@@ -31,7 +31,7 @@ FlavorFusion/
 
 ## You can view live demo here
 
-[Click here]([https://](https://shawarmahub.netlify.app/))
+[Click here](https://shawarmahub.netlify.app/)
 
 ## 🤝 Contributing
 
