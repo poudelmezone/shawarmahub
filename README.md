@@ -15,20 +15,6 @@ A modern and responsive restaurant website designed to provide an immersive dini
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Design:** Responsive UI/UX Design Principles
 
-## 📂 Project Structure
-
-```
-FlavorFusion/
-├── index.html      # Main HTML file
-├── css/
-│   └── style.css   # Stylesheet
-├── js/
-│   └── script.js   # JavaScript functionality
-├── images/         # Website images
-└── README.md       # Project documentation
-```
-
-
 ## You can view live demo here
 
 [Click here](https://shawarmahub.netlify.app/)
